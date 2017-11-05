@@ -1,4 +1,4 @@
-# Swift_Fundamentals_Functions
+# Swift Fundamentals Functions
 
     //: Playground - noun: a place where people can play
     
